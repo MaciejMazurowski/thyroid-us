@@ -2,11 +2,11 @@
 
 Code repository for *Evaluation of Thyroid Nodules Seen on Ultrasound: Comparison of Deep Learning to Radiologists Using ACR TI-RADS*.
 
-It contains multi-task CNN model definition, training, and inference scripts.
+Developed by [mateuszbuda](https://github.com/mateuszbuda).
+
+It contains implementation of a multi-task CNN model using Keras framework with TensorFlow backend.
 
 ![Multi-task CNN](./multitask.png)
-
-We used Keras framework with TensorFlow backend.
 
 If you use this code in your research, consider citing:
 
