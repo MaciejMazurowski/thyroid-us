@@ -13,4 +13,4 @@ opencv-python==3.3.0.10
 imgaug==0.2.5
 pypng==0.0.18
 pandas==0.22.0
-Pillow==5.0.0
+Pillow==9.3.0
